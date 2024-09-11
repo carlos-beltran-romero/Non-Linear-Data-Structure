@@ -1,0 +1,3 @@
+C:/Users/carlo/OneDrive/Escritorio/Universidad/5/EDNL/Estudiando para sept/Grafos/cmake-build-debug/CMakeFiles/Grafos.dir
+C:/Users/carlo/OneDrive/Escritorio/Universidad/5/EDNL/Estudiando para sept/Grafos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/carlo/OneDrive/Escritorio/Universidad/5/EDNL/Estudiando para sept/Grafos/cmake-build-debug/CMakeFiles/rebuild_cache.dir

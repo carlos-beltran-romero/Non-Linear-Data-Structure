@@ -1,0 +1,6 @@
+# ninja log v5
+51	1215	7309104943487001	CMakeFiles/Arboles_Binarios.dir/main.cpp.obj	174c1e170f66aae3
+1215	1590	7309104947186947	Arboles_Binarios.exe	70fe33b2fb64a910
+42	489	7330895563360260	CMakeFiles/Arboles_Binarios.dir/Abin_VecPos.cpp.obj	c7e598f46b162bd0
+5	614	7309104937456977	CMakeFiles/Arboles_Binarios.dir/Abin_Enla.cpp.obj	b964858c278cee51
+49	983	7330895568300265	CMakeFiles/Arboles_Binarios.dir/Abin_Vec.cpp.obj	fdce0829afbc1e33

@@ -1,0 +1,3 @@
+C:/Users/carlo/OneDrive/Escritorio/Universidad/5/EDNL/Estudiando para junio/Arboles Binarios Busqueda ABB/cmake-build-debug/CMakeFiles/Arboles_Binarios_Busqueda_ABB.dir
+C:/Users/carlo/OneDrive/Escritorio/Universidad/5/EDNL/Estudiando para junio/Arboles Binarios Busqueda ABB/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/carlo/OneDrive/Escritorio/Universidad/5/EDNL/Estudiando para junio/Arboles Binarios Busqueda ABB/cmake-build-debug/CMakeFiles/rebuild_cache.dir

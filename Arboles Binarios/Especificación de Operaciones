@@ -1,0 +1,64 @@
+                         ESPECIFICACIÓN ÁRBOLES BINARIOS
+
+    Abin()
+        Post: Crea un árbol Vacío.
+
+    void insertarRaiz(const T& e)
+        Pre: El arbol debe estar vacío
+        Post:Inserta el nodo raíz cuyo contenido será e
+
+    void insertarHijoIzqdo(nodo n, const T& e)
+        Pre: El nodo n debe existir en el árbol
+             El nodo n no debe tener ya hijo izquierdo.
+        Post: Se inserta un nodo hijo izquierdo de n cuyo contenido será e.
+
+    void insertarHijoDrcho(nodo n, const T& e)
+        Pre: El nodo n debe existir en el árbol
+             El nodo n no debe tener ya hijo derecho.
+        Post: Se inserta un nodo hijo derecho de n cuyo contenido será e.
+
+    void eliminarHijoIzqdo(nodo n)
+        Pre: El nodo n debe existir en el árbol y tener hijo izquierdo
+             El hijo izquierdo de n debe ser un nodo hoja
+        Post: Se elimina el hijo izquierdo de n.
+
+    void eliminarHijoDrcho(nodo n)
+        Pre: El nodo n debe existir en el árbol y tener hijo derecho.
+             El hijo derecho de n debe ser un nodo hoja
+        Post: Se elimina el hijo derecho de n.
+
+    void eliminarRaiz()
+        Pre: El árbol no se encuentra vacío. El árbol solo contiene la ráiz
+        Post: Se elimina el nodo raíz y por tanto el árbol se queda vacío.
+
+    bool arbolVacio() const
+        Post: Devuelve true si es un árbol vacio y false si no lo es.
+
+    const T& elemento(nodo n) const
+        Pre: El nodo n es un nodo del árbol.
+        Post: Devuelve el elemento del nodo n
+
+    T& elemento(nodo n)
+        Pre: El nodo n es un nodo del árbol.
+        Post: Devuelve el elemento del nodo n
+
+    nodo raiz()const
+        Post: Devuelve el nodo raíz del arbol. Si el árbol está vacío devuelve NODO_NULO
+
+    nodo padre(nodo n) const
+        Pre: El nodo n existe en e árbol.
+        Post: Devuelve el nodo padre del nodo n. Si n es el nodo raíz devuelve NODO_NULO.
+
+    nodo hijoIzqdo (nodo n) const
+        Pre: El nodo n debe existir en el árbol.
+        Post: Devuelve el hijo izquierdo de n y si no tiene devuelve NODO_NULO.
+
+    nodo hijoDrcho (nodo n) const
+        Pre: El nodo n debe existir en el árbol.
+        Post: Devuelve el hijo derecho de n y si no tiene devuelve NODO_NULO.
+
+
+
+
+
+
